@@ -1,2 +1,3 @@
 # hello-world
-a hello world program
+hi , akhila !
+i'm here to learn about github
